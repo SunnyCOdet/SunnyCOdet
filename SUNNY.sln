@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YADAS", "WindowsFormsApp1\YADAS.csproj", "{6B85630A-3745-4186-AB80-5BC47E83377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Debug|x64.ActiveCfg = Debug|x64
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Debug|x64.Build.0 = Debug|x64
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Release|x64.ActiveCfg = Release|x64
+		{6B85630A-3745-4186-AB80-5BC47E83377D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82C3F405-B877-4184-8AC2-772024861714}
+	EndGlobalSection
+EndGlobal
