@@ -1,4 +1,4 @@
-# 👋 Hi, I’m SunnyCOdet  
+# 👋 Hi, I’m Gnanadeep Edupulapati 
 
 ## 👀 About Me  
 I am passionate about developing AI-powered applications and working across multiple platforms, including **Windows, macOS, Linux, Android, and iOS**. I specialize in **AI, automation, and SaaS** solutions, focusing on real-time communication and automation technologies.  
