@@ -5,7 +5,7 @@ I am passionate about developing AI-powered applications and working across mult
 
 ## 🌱 Currently Learning  
 - Advanced AI and NLP technologies  
-- JavaScript (React, Node.js) & Kotlin for mobile and web development  
+- JavaScript (React, Node.js) & Kotlin for mobile and web development,Python(FastAPI,Flask)  
 - Cloud computing and scalable SaaS architectures  
 
 ## 💼 Projects & Work  
